@@ -31,7 +31,7 @@
 [**Open Website**](#)  
 _Click the button below to try ClipboardSlL now!_
 
-[![Open Website](https://img.shields.io/badge/Open-Website-blue?style=for-the-badge)](#)
+[![Open Website](https://img.shields.io/badge/Open-Website-blue?style=for-the-badge)](https://)
 
 ---
 
