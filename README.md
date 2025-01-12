@@ -59,4 +59,5 @@ If you'd like to contribute, feel free to fork the repository and submit a pull 
 
 ## License
 
-ClipboardSlL is released under the MIT License. See `LICENSE` for details.
+ClipboardSlL is licensed under the [MIT License](LICENSE).  
+Feel free to use, modify, and distribute it under the terms of the license.
