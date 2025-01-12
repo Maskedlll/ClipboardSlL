@@ -28,20 +28,20 @@
 
 ## Demo
 
-[**Open Website**](#)  
+[**Open Website**](https://maskedlll.github.io/ClipboardSlL/Manager.html)  
 _Click the button below to try ClipboardSlL now!_
 
-[![Open Website](https://img.shields.io/badge/Open-Website-blue?style=for-the-badge)](https://)
+[![Open Website](https://img.shields.io/badge/Open-Website-blue?style=for-the-badge)](https://maskedlll.github.io/ClipboardSlL/Manager.html)
 
 ---
 
 ## Preview
 
 ### Desktop View  
-![Desktop View](#)  
+![Desktop View](https://maskedlll.github.io/ClipboardSlL/)  
 
 ### Mobile View  
-![Mobile View](#)
+![Mobile View](https://maskedlll.github.io/ClipboardSlL/)
 
 ---
 
